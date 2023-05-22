@@ -9,6 +9,7 @@ namespace Arena3
 {
     internal class Uvod
     {
+        //komentář kvůli Gitu
         public void pozdrav()
         {
             Console.WriteLine("Vítejte v aréně!");
